@@ -1,2 +1,2 @@
 # pizza_detector
-step 1: detect pizza, step 2: ???, step 3: profit
+Exploring a convolutional neural network for image recognition using Keras and Tensorflow to build a food based image classifier
